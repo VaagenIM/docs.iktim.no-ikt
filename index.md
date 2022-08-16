@@ -5,7 +5,7 @@ lang: nb-NO
 authors:
   - Sondre Grønås
 created: 2022-08-12 04:00:00
-updated: 2022-08-16 10:47:50
+updated: 2022-08-16 20:57:21
 ---
 # Informasjonsteknologi
 Velkommen!

@@ -7,7 +7,7 @@ authors:
 tags:
   - Ekstra
 created: 2022-08-02 02:00:00
-updated: 2022-08-13 20:28:54
+updated: 2022-08-16 21:00:32
 ---
 # YouTube Kanaler
 Er lesing litt to-tusen og stein? Mange pompøse typer på nett som ikke *helt* har peiling på hva de snakker om?
