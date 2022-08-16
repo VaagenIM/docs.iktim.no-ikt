@@ -6,7 +6,7 @@ authors:
   - Sondre Grønås
 tags:
   - IDE
-  - Editor
+  - Programvare
 created: 2022-07-27 04:00:00
 updated: 2022-08-16 20:50:02
 ---

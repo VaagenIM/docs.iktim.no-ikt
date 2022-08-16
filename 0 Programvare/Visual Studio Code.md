@@ -5,7 +5,7 @@ lang: nb-NO
 authors:
   - Sondre Grønås
 tags:
-  - Definisjon
+  - Programvare
 created: 2022-07-27 04:00:00
 updated: 2022-08-16 20:51:44
 ---
