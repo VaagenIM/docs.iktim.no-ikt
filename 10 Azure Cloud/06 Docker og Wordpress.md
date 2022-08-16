@@ -9,8 +9,8 @@ tags:
   - Docker
   - Wordpress
   - Webdesign
-created: 2022-05-03 02:00:00
-updated: 2022-08-13 20:26:12
+created: 2022-05-03 04:00:00
+updated: 2022-08-16 17:48:31
 ---
 # 06. Docker og Wordpress
 For å sette opp en enkel webserver i Azure må man gjøre følgende steg:
@@ -42,7 +42,7 @@ Vi setter opp Wordpress på port 8080, det gjør vi ved å kjøre følgende komm
 docker run -d -p 8080:80 sondregronas/wordpress-container
 ```
 
-Verre er det faktisk ikke! Alternativt kan den kjøres med andre kontainere eller konfigurasjoner ved å bruke en [[docker-compose]] fil.
+Verre er det faktisk ikke! Alternativt kan den kjøres med andre kontainere eller konfigurasjoner ved å bruke en [[docker compose]] fil.
 
 Docker containeren lager automatisk en administratorbruker og en gjestebruker. `admin/admin` er innlogging for admin, `guest/guest` er innlogging for gjestebruker. Passord bør byttes ved første anledning.
 

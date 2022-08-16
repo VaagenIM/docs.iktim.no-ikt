@@ -7,8 +7,8 @@ authors:
 tags:
   - IDE
   - Editor
-created: 2022-04-09 02:00:00
-updated: 2022-08-13 20:23:58
+created: 2022-04-09 04:00:00
+updated: 2022-08-16 17:50:54
 ---
 # Atom IDE (Utgått)
 Atom IDE er GitHub sin egen kode-editor, også kalt en [[IDE]] (Integrated development environment). Denne kan lastes ned på [atom.io](https://atom.io/)

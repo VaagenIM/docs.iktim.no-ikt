@@ -7,8 +7,8 @@ authors:
 tags:
   - Nettverk
   - DHCP
-created: 2022-04-27 02:00:00
-updated: 2022-08-13 20:26:34
+created: 2022-04-27 04:00:00
+updated: 2022-08-16 17:48:55
 ---
 # DHCP
 ## Dynamic Host Configuration Protocol
@@ -16,7 +16,7 @@ DHCP står for Dynamic Host Configuration Protocol, som brukes til å gjøre net
 
 DHCP er en funksjon i et nettverk. Vanligvis er DHCP forhåndskonfigurert i de fleste rutere, men det kan og installeres på andre maskiner.
 
-En DHCP server sin funksjon er å *hilse* til nye enheter som kobler seg til et nettverk og deler automatisk ut en [[02 IPv4-adresser|IP-adresse]], hvilke [[DNS|Navnetjener(e)]], informasjon om [[03 Subnetting|Subnet Mask]] og en [[Gateway]]. Dersom enheten ikke har disse definert, kan ikke enheten kommunisere på internett. 
+En DHCP server sin funksjon er å *hilse* til nye enheter som kobler seg til et nettverk og deler automatisk ut en [[02 IPv4 adresser|IP-adresse]], hvilke [[DNS|Navnetjener(e)]], informasjon om [[03 Subnetting|Subnet Mask]] og en [[Gateway]]. Dersom enheten ikke har disse definert, kan ikke enheten kommunisere på internett. 
 
 Merk at disse kan likevel defineres manuelt på de fleste enheter ved å huke bort "Obtain * automatically", på Mac: "Use DHCP / Manual".
 

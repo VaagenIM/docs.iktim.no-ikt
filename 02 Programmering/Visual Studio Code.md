@@ -6,8 +6,8 @@ authors:
   - Sondre Grønås
 tags:
   - Definisjon
-created: 2022-07-27 02:00:00
-updated: 2022-08-13 20:29:05
+created: 2022-07-27 04:00:00
+updated: 2022-08-16 17:51:01
 ---
 # VSCode
 En av de mest populære [[IDE]] programvarene. Vi kommer til å bruke [[JetBrains IDE|JetBrains]], men du kan selvfølgelig bruke VSCode også.

@@ -6,8 +6,8 @@ authors:
   - Sondre Grønås
 tags:
   - Data
-created: 2022-08-16 10:48:53
-updated: 2022-08-16 10:48:53
+created: 2022-08-16 12:48:53
+updated: 2022-08-16 17:50:52
 ---
 En bit er en verdi som kan kun representere 1 verdi, av eller på. `0` eller `1`. Bits kan representeres mekanisk, elektronisk og digitalt og er fundamentet på hvordan en datamaskin fungerer.
 
