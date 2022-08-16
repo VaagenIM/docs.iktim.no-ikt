@@ -1,0 +1,17 @@
+site/
+
+# Obsidian
+docs/.vault-stats
+docs/.obsidian/
+docs/.trash/
+
+# Obsidian Templates
+docs/_DATA/
+
+
+*.DS_Store
+.DS_Store
+
+*.bib
+
+.cache
