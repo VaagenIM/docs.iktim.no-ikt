@@ -31,7 +31,7 @@ Under innstillinger og `Files & Links` er det lurt å oppdatere verdien `Default
 ### [cMenu](obsidian://show-plugin?id=cmenu-plugin)
 Flytende meny for ulike formateringsvalg
 ![[obsidian_plugin_cmenu.png]]
-> [!NOTE] Overskrifter
+> [!IMPORTANT] Overskrifter
 > Inneholder ikke en knapp for overskrifter. Overskrifter defineres av `#` symboler foran teksten.
 > `# Overskrift 1`
 > `## Overskrift 2`
@@ -63,7 +63,7 @@ Lag en mappe `_DATA` i rotmappen av Obsidian velvet ditt, og opprett et dokument
 For å aktivere en template på en tom side bruker du hurtigtasten `ALT+E`.
 
 > [!HINT]
-> Under innstillinger kan du definere også definere at malen skal aktiveres ved oppretting av fil.
+> Under innstillinger kan man definere at malen skal aktiveres ved oppretting av fil.
 
 ### Zotero Desktop Connector (Kilderefering)
 Litt for avansert til å skrive om her nå... Men nevner at den finnes :)
