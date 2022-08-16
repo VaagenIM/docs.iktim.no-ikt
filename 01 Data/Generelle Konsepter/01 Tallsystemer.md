@@ -6,13 +6,13 @@ authors:
   - Sondre Grønås
 tags:
   - Tallsystem
-created: 2022-04-09 02:00:00
-updated: 2022-08-13 20:00:00
+created: 2022-04-09 04:00:00
+updated: 2022-08-16 10:49:16
 ---
 # Tallsystemer
-Det vanligste tallsystemet som er brukt hos mennesker er [[10-Tallsystemet|10-tallsystemet]], som fungerer flott til de vanligste matematiske utfordringer hvor vi regner med tall. Dette er ikke tilfelle for datamaskiner, som representerer data i form av elektroniske signaler; av eller på.
+Det vanligste tallsystemet som er brukt hos mennesker er 10-tallsystemet, som fungerer flott til de vanligste matematiske utfordringer hvor vi regner med tall. Dette er ikke tilfelle for datamaskiner, som representerer data i form av elektroniske signaler; av eller på.
 
-Når en elektronisk krets bare har to utfall, som heter bits (1 eller 0), er det mer logisk å bruke to-tallsystemet [[02 Binærtall|Binærtall]]. Ofte er 8 bits satt sammen til 1 [[Byte]], eller delt inn i 4-bits ([[Nibble]])
+Når en elektronisk krets bare har to utfall, som heter bits (1 eller 0), er det mer logisk å bruke to-tallsystemet [[02 Binærtall|Binærtall]]. 8 bits satt sammen av blir en [[04 Bits|Byte]], mens 4-bits heter en ([[04 Bits#Nibble|Nibble]])
 
 Et kompakt tallsystem som fungerer bra og er mye brukt i kombinasjon med binærtall er [[03 Heksadesimaler|Heksadesimaler]], eller et 16-tallsystem, med tallene 0-F.
 

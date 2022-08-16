@@ -1,12 +1,12 @@
 site/
 
 # Obsidian
-docs/.vault-stats
-docs/.obsidian/
-docs/.trash/
+.vault-stats
+.obsidian/
+.trash/
 
 # Obsidian Templates
-docs/_DATA/
+_DATA/
 
 
 *.DS_Store
