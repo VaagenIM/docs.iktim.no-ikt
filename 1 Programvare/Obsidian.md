@@ -71,7 +71,7 @@ For å aktivere en template på en tom side bruker du hurtigtasten `ALT+E`.
 
 > [!INFO]- Skjul `_cfg` mappen
 > Det er også mulig å skjule `_cfg` mappen gjennom CSS. Dette gjør du via å opprette en ny fil i en ny mappe; `.obsidian/snippets/hide-cfg.css`
-> ```css title ".obsidian/snippets/hide-cfg.css"
+> ```css title=".obsidian/snippets/hide-cfg.css"
 > div[data-path='_cfg'], 
 > div[data-path='_cfg'] + div.nav-folder-children 
 > {
