@@ -7,14 +7,18 @@ authors:
 tags:
   - Programvare
 created: 2022-08-16 21:49:58
-updated: 2022-08-16 21:49:58
+updated: 2022-08-17 18:55:18
 ---
-# Obsidian
+# Obsidian ✍
 En moderne tekst editor i Markdown format med mange muligheter.
 
 **Link**: https://obsidian.md/
 **Guide**: https://help.obsidian.md/Start+here
 **Relevant blogg**: https://theproductiveengineer.net/the-beginners-guide-to-obsidian-notes-step-by-step/
+
+> [!EXAMPLE]- Last ned Sondres oppsett
+> Hvis du bare ønsker å bruke samme oppsett som meg, så kan det lastes ned her: https://github.com/sondregronas/obsidian-config/releases/download/latest/sondregronas-obsidian.zip
+> Merk at noen plug-ins kan kreve noen justeringer dersom du kopierer mitt oppsett.
 
 ## Anbefalt oppsett (Innstillinger)
 Her er en kort oppskrift på noen innstillinger du kan justere for å få en smidigere opplevelse med Obsidian
@@ -58,12 +62,22 @@ For å spare på plass kan denne benyttes for å slette bilder som ikke lenger e
 ### [Templater](obsidian://show-plugin?id=templater-obsidian)
 Frontmatter er metadata, som kan være nyttig å ha da det kan tilby ulike ekstra funksjoner ved for eksempel publisering, arkivering eller navigering. For å slippe å skrive frontmatteren selv så kan man benytte seg av Templater pluginen for å automatisere store deler av prosessen.
 
-Lag en mappe `_DATA` i rotmappen av Obsidian velvet ditt, og opprett et dokument som vil være din mal. En template du kan kopiere som er grei å bruke er [obsidian-template.md](https://raw.githubusercontent.com/VaagenIM/files/main/Generelt/Obsidian/obsidian-template.md).
+Lag en mappe `_cfg/templates` i rotmappen av Obsidian velvet ditt, og opprett et dokument som vil være din mal. En template du kan kopiere som er grei å bruke er [obsidian-template.md](https://raw.githubusercontent.com/VaagenIM/files/main/Generelt/Obsidian/obsidian-template.md).
 
 For å aktivere en template på en tom side bruker du hurtigtasten `ALT+E`.
 
-> [!HINT]
+> [!HINT]+
 > Under innstillinger kan man definere at malen skal aktiveres ved oppretting av fil.
+
+> [!INFO]- Skjul `_cfg` mappen
+> Det er også mulig å skjule `_cfg` mappen gjennom CSS. Dette gjør du via å opprette en ny fil i en ny mappe; `.obsidian/snippets/hide-cfg.css`
+> ```css title ".obsidian/snippets/hide-cfg.css"
+> div[data-path='_cfg'], 
+> div[data-path='_cfg'] + div.nav-folder-children 
+> {
+>     display: none;
+> }
+> ```
 
 ### Zotero Desktop Connector (Kilderefering)
 Litt for avansert til å skrive om her nå... Men nevner at den finnes :)

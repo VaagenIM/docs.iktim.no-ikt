@@ -8,7 +8,7 @@ tags:
   - IDE
   - Programvare
 created: 2022-07-27 04:00:00
-updated: 2022-08-16 20:50:02
+updated: 2022-08-17 15:46:57
 ---
 # JetBrains IDE
 Vi bruker [JetBrains](https://www.jetbrains.com) programvaresuite til å programmere med. JetBrains lager spesialiserte programmeringsverktøy som gjør det enklere å forstå koden vi jobber med takket være [[Code Intelligence]].
