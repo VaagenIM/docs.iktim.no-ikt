@@ -9,7 +9,7 @@ tags:
   - Editor
   - Javascript
 created: 2022-04-09 02:00:00
-updated: 2022-08-13 20:25:18
+updated: 2022-08-17 20:23:00
 ---
 # Installasjon og oppsett av IDE
 Her er noen gode tips for å komme i gang med JavaScript programmering.
@@ -18,8 +18,8 @@ Her er noen gode tips for å komme i gang med JavaScript programmering.
 Installasjon til Javascript utvikling (NodeJS) finner du her: [Node.js](https://nodejs.org/en/)
 Anbefalt versjon er LTS, som betyr long-term support.
 
-## Oppsett i [[01 Atom IDE|Atom]]
-Her er noen anbefalinger til packages som kan installeres i Atom, for en innføring i hvordan man laster ned packages, se [[01 Atom IDE#Installer Packages|Atom - Installer Packages]]
+## Oppsett i Atom (Gammel)
+Her er noen anbefalinger til packages som kan installeres i Atom
 
 > [!INFO] Installer anbefalte pakker i terminalen
 > For å installere alle pakkene i terminalen så kan du lime inn følgende kommando i en terminal:

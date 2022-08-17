@@ -10,7 +10,7 @@ tags:
   - Wordpress
   - Webdesign
 created: 2022-05-03 04:00:00
-updated: 2022-08-16 21:04:14
+updated: 2022-08-17 20:23:41
 ---
 # 06. Docker og Wordpress
 For å sette opp en enkel webserver i Azure må man gjøre følgende steg:
@@ -23,7 +23,7 @@ For å sette opp en enkel webserver i Azure må man gjøre følgende steg:
 For å koble til, følg stegene i [[03 Koble til Virtuell Maskin|03. Koble til Virtuell Maskin]].
 
 ## Last ned Docker
-Vi bruker [[Advanced Packaging Tool]] til å laste ned [[IKT/1 Data/Docker/index]], bruk følgende kommandoer i terminalen:
+Vi bruker [[Advanced Packaging Tool]] til å laste ned Docker, bruk følgende kommandoer i terminalen:
 ```sh
 sudo apt-get update
 sudo apt-get install docker.io -y
