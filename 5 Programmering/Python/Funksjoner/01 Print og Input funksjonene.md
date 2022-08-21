@@ -7,13 +7,13 @@ authors:
 tags:
   - Python
 created: 2022-04-09 02:00:00
-updated: 2022-08-13 20:25:22
+updated: 2022-08-21 15:26:02
 ---
 # Print og Input funksjonene
-`print()` og `input()` er to [[Funksjon|basisfunksjoner]] som brukes mye i konsollen til å behandle tekst. Den ene, `print()` bruker tekst som [[Utdata|utdata]], mens `input()` bruker tekst som [[Inndata]].
+`print()` og `input()` er to [[Funksjon|basisfunksjoner]] som brukes mye i konsollen til å behandle tekst. Den ene, `print()` bruker tekst som utdata, mens `input()` bruker tekst som inndata.
 
 ## Funksjonen `print(string="")`
-`print(string="")` - når parantesene har innhold i seg (i dette tilfelle en [[String|string]]), så kan man sende argumenter (ofte beskrevet som [[Argumenter|args*]]) til funksjonen som skal kjøre. Det finnes ingen begrensninger for hva vi kan sende til en funksjon, eller hva en funksjon kan ta imot, men `print()` tar bare imot en [[String|string]]; altså tekst. I de fleste programmeringsspråk krever man en form for hermetegn eller apostrof for å adskille tekst fra kode. Dette er fordi tegnet for mellomrom ( ) brukes av datamaskinen til å adskille [[Syntaks|syntakser]] eller annen kode. Når teksten er omringet av hermetegn/apostrofer, så vet maskinen at mellomrommene og spesialtegnene skal behandles som tekst.
+`print(string="")` - når parantesene har innhold i seg (i dette tilfelle en [[String|string]]), så kan man sende argumenter (ofte beskrevet som `args*`) til funksjonen som skal kjøre. Det finnes ingen begrensninger for hva vi kan sende til en funksjon, eller hva en funksjon kan ta imot, men `print()` tar bare imot en [[String|string]]; altså tekst. I de fleste programmeringsspråk krever man en form for hermetegn eller apostrof for å adskille tekst fra kode. Dette er fordi tegnet for mellomrom ( ) brukes av datamaskinen til å adskille syntakser eller annen kode. Når teksten er omringet av hermetegn/apostrofer, så vet maskinen at mellomrommene og spesialtegnene skal behandles som tekst.
 
 ##### Eksempel
 ```python

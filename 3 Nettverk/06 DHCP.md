@@ -8,7 +8,7 @@ tags:
   - Nettverk
   - DHCP
 created: 2022-04-27 04:00:00
-updated: 2022-08-16 17:48:55
+updated: 2022-08-21 15:17:22
 ---
 # DHCP
 ## Dynamic Host Configuration Protocol
@@ -27,7 +27,7 @@ Merk at disse kan likevel defineres manuelt på de fleste enheter ved å huke bo
 (Bilde fra: https://osxdaily.com/2010/12/17/set-static-ip-address-mac/)
 
 ## IP-Ranges
-DHCP serveren tar utgangspunkt i en IP-range, og begrensningene til en IP-range er definert av subnettet. Det betyr at dersom en IP-range er mellom $192.168.1.6-192.168.1.255$ så vil DHCP serveren kunne automatisk dele ut en ledig ip-adresse mellom de ip-adressene som er spesifisert. Enheter utenfor IP-rangen kan likevel defineres manuelt og brukes blant annet til [[Statisk IP|Statiske IP-adresser]], gitt at det er innforbi nettverkets subnet.
+DHCP serveren tar utgangspunkt i en IP-range, og begrensningene til en IP-range er definert av subnettet. Det betyr at dersom en IP-range er mellom $192.168.1.6-192.168.1.255$ så vil DHCP serveren kunne automatisk dele ut en ledig ip-adresse mellom de ip-adressene som er spesifisert. Enheter utenfor IP-rangen kan likevel defineres manuelt og brukes blant annet til Statiske IP-adresser, gitt at det er innforbi nettverkets subnet.
 
 ![[dhcp-basics.png]]
 (Illustrasjon fra: https://www.cables-solutions.com/pppoe-vs-dhcp-difference.html)

@@ -9,12 +9,12 @@ tags:
   - JSON
   - CSV
 created: 2022-04-09 02:00:00
-updated: 2022-08-16 20:46:34
+updated: 2022-08-21 15:23:09
 ---
 # Datasystem, filbasert
 En måte vi kan lagre data på i system, er å bruke tradisjonelle mappesystemer. Dataen vi lagrer og behandler bruker datamaskinens filsystem, som betyr at vi kan finne frem og endre på informasjonen ved å bruke vanlig filutforsker.
 
-Det finnes mange fordeler ved å bruke filbaserte datasystemer - men avhengig av prosjektets størrelse så finnes det flere ulemper. Den største fordelen til filbasert database er at det er raskt å jobbe med og teste, men kan fort bli uoversiktlig dersom det er behov for å behandle store mengder data. I ytelse vil en [[03 Datasystem, SQL|SQL-basert]] database være betydelig raskere enn en filbasert, ettersom en database kan ligge lagret ferskt i [[RAM|minnet]], mens en filbasert database må leses hver gang.
+Det finnes mange fordeler ved å bruke filbaserte datasystemer - men avhengig av prosjektets størrelse så finnes det flere ulemper. Den største fordelen til filbasert database er at det er raskt å jobbe med og teste, men kan fort bli uoversiktlig dersom det er behov for å behandle store mengder data. I ytelse vil en [[03 Datasystem, SQL|SQL-basert]] database være betydelig raskere enn en filbasert, ettersom en database kan ligge lagret ferskt i minnet (RAM), mens en filbasert database må leses hver gang.
 
 ## Fordeler
 - Enkelt å programmere

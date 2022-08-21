@@ -8,7 +8,7 @@ tags:
   - Python
   - OOP
 created: 2022-07-06 02:00:00
-updated: 2022-08-16 21:06:06
+updated: 2022-08-21 15:24:19
 ---
 # Classes
 Class er en standardfunksjon i [[Objekt orientert programmering|Objekt-orientert programmering]] (OOP)
@@ -66,7 +66,7 @@ print(f'{tesla.manufacturer} {tesla.name} from {tesla.year}')
 Funksjonellt sett er koden helt lik, men likevel forskjellig med tanke på lesbarhet.
 
 ## Funksjoner i klasser
-En ting som gjør klasser mer unik er evnen til å definere [[Getters og Setters]]; en metode å hente (eller lagre) informasjon på. Et eksempel på en innebygd getters er `__str__(self)` funksjonen. `__str__(self)` definerer hvordan objektet vil se ut i tekst.
+En ting som gjør klasser mer unik er evnen til å definere Getters og Setters; en metode å hente (eller lagre) informasjon på. Et eksempel på en innebygd getters er `__str__(self)` funksjonen. `__str__(self)` definerer hvordan objektet vil se ut i tekst.
 
 Dersom vi tar eksempelet over og prøver å printe objektet, vil vi få følgende resultat:
 ```python

@@ -7,7 +7,7 @@ authors:
 tags:
   - Javascript
 created: 2022-04-09 02:00:00
-updated: 2022-08-13 20:26:21
+updated: 2022-08-21 15:25:44
 ---
 # Kryptering av brukerpassord
 Dette er UTROLIG viktig, og er et lovbrudd dersom man lar være å kryptere data i ekte bruksområder. Det er heller ikke så vanskelig.
@@ -104,7 +104,7 @@ Nå vil passordene som blir laget av bruker, og det som blir lagret i databasen,
 Merk at brukeren trenger **ikke** skrive mer enn `passord` når han logger inn og trenger derfor ikke tenke på algoritmen.
 
 ## Pepper
-[[Salt og Pepper]] er mye brukt i kryptografi, vi har sett på hvordan man salter en cookie i [[08 Cookies|Cookies]], som gjør det vanskelig å lese data i cookie filen dersom den skulle på en eller annen måte lekke ut. Pepper er en annen måte å [obfuskere](https://naob.no/ordbok/obfuskere) data på er gjennom peppring, som er en ekstra streng av tekst som legges til før dataen blir hashet.
+Salt og Pepper er mye brukt i kryptografi, vi har sett på hvordan man salter en cookie i [[08 Cookies|Cookies]], som gjør det vanskelig å lese data i cookie filen dersom den skulle på en eller annen måte lekke ut. Pepper er en annen måte å [obfuskere](https://naob.no/ordbok/obfuskere) data på er gjennom peppring, som er en ekstra streng av tekst som legges til før dataen blir hashet.
 
 Eksempel kan være at dersom en bruker `Passord123` som passord, kan det bli pepret med `dZ0lyQg90NuDfmp2U6FJDmBUE6xMme`. Passordet vil da bli for eksempel `Passord123dZ0lyQg90NuDfmp2U6FJDmBUE6xMme`, hvis vi legger pepperet på slutten av teksten.
 

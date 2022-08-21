@@ -7,7 +7,7 @@ authors:
 tags:
   - Definisjon
 created: 2022-05-03 04:00:00
-updated: 2022-08-16 17:48:55
+updated: 2022-08-21 15:21:08
 ---
 # Cloudflare DDNS
-[[DDNS]] - tjeneste Cloudflare tilbyr via for eksempel https://hub.docker.com/r/oznu/cloudflare-ddns/ som lar oss knytte et domenenavn til en [[02 IPv4 adresser|IP-adresse]] som ikke er [[Statisk IP|statisk]].
+[[DDNS]] - tjeneste Cloudflare tilbyr via for eksempel https://hub.docker.com/r/oznu/cloudflare-ddns/ som lar oss knytte et domenenavn til en [[02 IPv4 adresser|IP-adresse]] som ikke er statisk (endrer seg).

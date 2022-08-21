@@ -50,7 +50,7 @@ Skriver vi derfor inn 123 som brukernavn, 456 som passord, vil den sende oss til
 
 For å håndtere dataen videre, må vi validere at det er brukt riktig brukernavn og passord. Dette gjør vi ved å sette opp en til GET funksjon som lytter på `/auth` i `app.js`, siden vårt skjema bruker `method="get"`.
 
-Verdiene vi får legger seg automatisk inn i `request` objektet som tas inn i funksjonen, under et underobjekt som heter [[Query]] (forespørsel). For testen sin skyld bruker vi brukernavnet: `Ole` og passord: `123`
+Verdiene vi får legger seg automatisk inn i `request` objektet som tas inn i funksjonen, under et underobjekt som heter `query` (forespørsel). For testen sin skyld bruker vi brukernavnet: `Ole` og passord: `123`
 
 `app.js`
 ```js
@@ -99,7 +99,7 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 ```
 
-I `app.js` må vi også endre fra `get` til `post` forespørsler. Det er heller ikke verre enn å bytte ut `.get()` med `.post()` - forskjellen her blir bare hvor vi henter verdiene fra. Nå kommer de ikke fra forespørselen ([[Query]]), men fra en annen usynlig forespørsel med innhold. Nettleseren sender altså et brev (post) av innhold bak kulissene, og det som blir lest av er `body` delen av brevet, som på norsk kan oversettes til innhold. `request.query` (URL, GET) blir derfor byttet ut med `request.body` (POST)
+I `app.js` må vi også endre fra `get` til `post` forespørsler. Det er heller ikke verre enn å bytte ut `.get()` med `.post()` - forskjellen her blir bare hvor vi henter verdiene fra. Nå kommer de ikke fra forespørselen (Query), men fra en annen usynlig forespørsel med innhold. Nettleseren sender altså et brev (post) av innhold bak kulissene, og det som blir lest av er `body` delen av brevet, som på norsk kan oversettes til innhold. `request.query` (URL, GET) blir derfor byttet ut med `request.body` (POST)
 
 `app.js`
 ```js

@@ -21,7 +21,7 @@ I din [[Integrated Development Environment|IDE]] åpner du prosjektmappen (i Ato
 
 Lag en fil i prosjektet og kall denne for `app.js`
 
-La oss verifisere at [[Javascript]] er installert ved å skrive inn koden:
+La oss verifisere at Javascript er installert ved å skrive inn koden:
 ```javascript
 console.log("Hello Node!")
 ```
@@ -46,7 +46,7 @@ Du skal nå kunne se en ny fil i mappen; `package.json`. Dette er filen som inne
 ## Steg 3: Installer `express` npm modul
 [Express](https://expressjs.com/) er et rammeverk for web- og mobilapplikasjoner som brukes til å "servere" filer i nettleseren. Express benytter seg av [[HTTP Metoder]] som [[GET]] og [[POST]] til å formidle data.
 
-For å installere modulen, må man kjøre en enkel kommando i terminalen. Vi bruker [[NPM]] (Node Package Manager) på lik måte som vi gjør med PIP i Python og skriver inn: `npm install express`.
+For å installere modulen, må man kjøre en enkel kommando i terminalen. Vi bruker `NPM` (Node Package Manager) på lik måte som vi gjør med PIP i Python og skriver inn: `npm install express`.
 
 Mappen `node_modules` og filen `package-lock.json` skal nå dukke opp i prosjektmappa.
 

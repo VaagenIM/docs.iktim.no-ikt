@@ -7,12 +7,12 @@ authors:
 tags:
   - Javascript
 created: 2022-04-09 02:00:00
-updated: 2022-08-16 21:12:40
+updated: 2022-08-21 15:22:09
 ---
 # Javascript
 Javascript er et spennende språk vi skal lære oss litt av. I motsetning til WebJavascript, er Javascript (Node) et programmeringsspråk som brukes i apputvikling til PC, Mac, Linux, Android og iOS. Det er mange plattformer det!
 
-I motsetning til [[Python]] har [[Javascript]] en litt mer strengere syntaks, som kan gjøre det mer krevende å lese koden. Dette er med både fordeler og ulemper, men fortvil ikke - vi lærer sammen.
+I motsetning til `Python` har `Javascript` en litt mer firkanta syntaks, som kan gjøre det mer krevende å lese koden. Dette er med både fordeler og ulemper, men fortvil ikke - vi lærer sammen.
 
 For å installere og sette opp en IDE til å kjøre Javascript, følg oppskriften her: [[01 Node Javascript Installasjon og oppsett i IDE]]
 

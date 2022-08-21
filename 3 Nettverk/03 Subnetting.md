@@ -8,7 +8,7 @@ tags:
   - Nettverk
   - VLAN
 created: 2022-04-09 04:00:00
-updated: 2022-08-16 17:48:55
+updated: 2022-08-21 15:16:56
 ---
 # Subnetting
 Subnet definerer et område hvor det kan eksistere IP-adresser. Jo større subnet, jo flere enheter kan koble til nettverket. Den første verdien og siste verdien i et subnet forteller enhetene som er koblet til hvor de kan hente informasjon om andre enheter i nettverket automatisk, via for eksempel tjenester som [Apple sin Bonjour](https://developer.apple.com/bonjour/). 
@@ -52,7 +52,7 @@ Lag en liste over de ulike enhetene som skal koble seg til, er det fornuftig å 
 
 Hvor mange IP-adresser bør de ulike subnettene ha? Tenk at bedriften kan vokse og få mer ansatte over tid!
 
-For ekstra utfordring så kan du legge inn en [[02 IPv4 adresser|IP-adresse]] subnettet bør starte fra. Dette har ingen betydning for ytelse, men det kan fungere som en indikator. $10.13.37.X$ (L33T, Elite) er bra for å indikere et gaming-nett og $192.168.107.X$ brukes ofte som et [[IoT]] nett, ettersom 107 er IOT i [[L33T Speak]].
+For ekstra utfordring så kan du legge inn en [[02 IPv4 adresser|IP-adresse]] subnettet bør starte fra. Dette har ingen betydning for ytelse, men det kan fungere som en indikator. $10.13.37.X$ (L33T, Elite) er bra for å indikere et gaming-nett og $192.168.107.X$ brukes ofte som et IoT (Internet of Things) nett, ettersom 107 er IOT i L33T Speak.
 
 Lag en tabell slik som denne:
 

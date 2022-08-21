@@ -7,7 +7,7 @@ authors:
 tags:
   - Python
 created: 2022-04-09 02:00:00
-updated: 2022-08-13 20:25:56
+updated: 2022-08-21 15:24:05
 ---
 # Tuples og lister
 En Tuple er en verdi som inneholder FLERE verdier, de refereres ofte som lister. Du lager en Tuple ved å ramme verdien inn i en ``[]`` blokk, verdier adskilles ved komma. Her er foreløpig en uoversiktlig oversikt over hva det er for noe.
@@ -26,7 +26,7 @@ print(MinForsteTuple[1]) # Printer Ole
 print(MinForsteTuple[2]) # Printer 25
 ```
 
-Man kan også behandle ALL dataen som om det var samme kategori, for eksempel en liste med navn. Dette kalles på fagspråk å [[Enumerate|enumerere]] data til en stor liste, for å så [[Iterate|iterere]] seg gjennom den. I Python så har vi iterereingsfunksjonen `in` som kan brukes på flere måter, det vil bety at den sjekker alle enumererte data (Dvs. den går gjennom listen):
+Man kan også behandle ALL dataen som om det var samme kategori, for eksempel en liste med navn. Dette kalles på fagspråk å enumerere (legge til) data til en stor liste, for å så iterere (lese en og en) seg gjennom den. I Python så har vi iterereingsfunksjonen `in` som kan brukes på flere måter, det vil bety at den sjekker alle enumererte data (Dvs. den går gjennom listen):
 ```python
 NavnBegynnerPaaJ = ["Jens", "Julia", "Jonas", "Jan", "Jason"]
 
@@ -59,7 +59,7 @@ for NAVN in NavnBegynnerPaaJ:
 		print(f"Du har samme navn som {NAVN}!")
 ```
 
-De kan også brukes litt på lik linje som [[CSV]] - som er et dataspråk som bl.a. Excel bruker til å ha en sekvens av verdier som representerer ulike "nøkler". For eksempel en CSV kan ha format: "Fornavn, Etternavn, Alder" og man plotter inn data i den strukturen; "Jens, Stoltenberg, 45, Jonas, Gahr-Støre, 55".
+De kan også brukes litt på lik linje som CSV (Comma Separated Values) - som er et dataspråk som bl.a. Excel bruker til å ha en sekvens av verdier som representerer ulike "nøkler". For eksempel en CSV kan ha format: "Fornavn, Etternavn, Alder" og man plotter inn data i den strukturen; "Jens, Stoltenberg, 45, Jonas, Gahr-Støre, 55".
 
 ```python
 CPU_options = [["Billigste", 	 2000, "prisjakt.no/billigste"], 		# Verdi 0

@@ -9,7 +9,7 @@ tags:
   - Azure
   - RAM
 created: 2022-04-16 02:00:00
-updated: 2022-08-16 21:04:10
+updated: 2022-08-21 15:15:55
 ---
 # 05. Last ned mer RAM (SWAP)
 I motsetning til maskinene vi er vandt med, kommer ikke Azure sine virtuelle maskiner med [[SWAP RAM]] fil forhåndsdefinert. SWAP er et mellomlager for minnet som er allokert av lagringsdisken. Uten SWAP fil vil programmer krasje når maskinen går tom for RAM. 
@@ -17,7 +17,7 @@ I motsetning til maskinene vi er vandt med, kommer ikke Azure sine virtuelle mas
 Maskinen vi har satt opp hos Azure har kun 512MB med RAM, som begrenser hva vi kan gjøre betraktelig. Ved å allokere en 4GB SWAP-fil (4096MB), vil vi gi maskinen mer pusterom. Effektivt vil maskinen ha 4.5GB med RAM, der kun en liten del av det er 'rask og ekte RAM'.
 
 ## Endre `/etc/waagent.conf` (Microsoft Azure Linux Agent)
-Vi må endre tektsfilen `/etc/waagent.conf`, dette gjøres ved å bruke en teksteditor, f.eks. [[Nano]]
+Vi må endre tektsfilen `/etc/waagent.conf`, dette gjøres ved å bruke en teksteditor, f.eks. Nano
 ```sh
 nano /etc/waagent.conf
 ```

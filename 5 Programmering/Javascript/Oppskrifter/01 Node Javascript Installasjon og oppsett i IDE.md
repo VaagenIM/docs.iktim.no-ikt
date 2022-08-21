@@ -9,7 +9,7 @@ tags:
   - Editor
   - Javascript
 created: 2022-04-09 02:00:00
-updated: 2022-08-17 20:23:00
+updated: 2022-08-21 15:26:58
 ---
 # Installasjon og oppsett av IDE
 Her er noen gode tips for å komme i gang med JavaScript programmering.
@@ -31,9 +31,9 @@ Her er noen anbefalinger til packages som kan installeres i Atom
 `atom-ternjs` er en Atom package som foreslår alternativer og viser våre mulige valg automagisk. Denne er nesten et must når man programmerer Javascript.
 
 ### `platformio-ide-terminal` (Terminal)
-I NodeJS bruker man noe som heter [[NPM]] til å installere pakker og kjøre vår kode. Dette gjøres i terminalen, men istedet for å bruke operativsystemet sin terminal så kan dette gjøres direkte i Atom.
+I NodeJS bruker man noe som heter `NPM` til å installere pakker og kjøre vår kode. Dette gjøres i terminalen, men istedet for å bruke operativsystemet sin terminal så kan dette gjøres direkte i Atom.
 
-### `linter-js-standard` ([[Linter]])
+### `linter-js-standard` (Linter)
 `linter-js-standard` er en linter som hjelper oss å holde orden på koden og gjøre den ryddig. Denne kan være litt masete, men den er som oftest til god hjelp.
 
 ### `atom-pug` (Fargelegg .pug filer)
