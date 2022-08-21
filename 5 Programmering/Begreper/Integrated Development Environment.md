@@ -12,4 +12,4 @@ updated: 2022-08-21 12:44:21
 # IDE
 En tekst-editor med mange godbiter som gjør det enklere å kode.
 
-Nøkkelord: [[Refactor|Refactoring]], [[Ordliste/IT/Programmering/Code Intelligence]], [[Syntax-highlighting]]
+Nøkkelord: [[Refactor|Refactoring]], [[Code Intelligence]], [[Syntax-highlighting]]
