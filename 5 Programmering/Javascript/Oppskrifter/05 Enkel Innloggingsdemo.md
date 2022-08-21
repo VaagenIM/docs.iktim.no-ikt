@@ -7,7 +7,7 @@ authors:
 tags:
   - Javascript
 created: 2022-04-09 02:00:00
-updated: 2022-08-13 20:26:09
+updated: 2022-08-21 15:05:59
 ---
 # Enkel Innloggingsdemo
 Ut ifra det vi nå har lært om [[04 Express HTML Pug Templating|Pug Templating]] og Express, skal vi lage en enkel demo for innlogging. Vi kommer til å se på hvordan vi sender data mellom [[Frontend]] og [[Backend]] med ulike [[HTTP Metoder]]. Merk at alt som skjer på Frontend er synlig for endebruker, det er ikke Backend. Man kan altså behandle data som passord på Frontend, men det er ikke så lurt!

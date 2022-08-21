@@ -105,7 +105,7 @@ Link, som er et bilde <mark style="background: #BBFABBA6;">(Riktig)</mark> :
 <a href="https://google.com"><img src="bilde.jpg"></a>
 ```
 
-Bilde, som inneholder en link, som ikke er synlig <mark style="background: #FF5582A6;">(Dårlig)</mark> :
+Bilde, som inneholder en link, som ikke er synlig <mark style="background: #FF5582A6;">(Feil)</mark> :
 ```html
 <img src="bilde.jpg"><a href="https://google.com"></a></img>
 ```
