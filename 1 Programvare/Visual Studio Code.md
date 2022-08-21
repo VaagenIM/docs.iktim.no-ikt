@@ -7,10 +7,10 @@ authors:
 tags:
   - Programvare
 created: 2022-07-27 04:00:00
-updated: 2022-08-17 20:11:45
+updated: 2022-08-21 13:38:51
 ---
 # VSCode
-En av den mest populære [[IDE]] programvaren fra Microsoft. Vi kommer mest til å bruke [[JetBrains IDE|JetBrains]], men du kan selvfølgelig bruke VSCode også.
+En av den mest populære [[Integrated Development Environment|IDE]] programvaren fra Microsoft. Vi kommer mest til å bruke [[JetBrains IDE|JetBrains]], men du kan selvfølgelig bruke VSCode også.
 
 Forklaring og mer info kommer.
 

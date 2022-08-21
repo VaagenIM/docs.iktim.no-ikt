@@ -7,9 +7,9 @@ authors:
 tags:
   - Definisjon
 created: 2022-04-09 02:00:00
-updated: 2022-08-16 20:51:14
+updated: 2022-08-21 12:44:21
 ---
 # IDE
 En tekst-editor med mange godbiter som gjør det enklere å kode.
 
-Nøkkelord: [[Refactor|Refactoring]], [[Code Intelligence]], [[Syntax-highlighting]]
+Nøkkelord: [[Refactor|Refactoring]], [[Ordliste/IT/Programmering/Code Intelligence]], [[Syntax-highlighting]]

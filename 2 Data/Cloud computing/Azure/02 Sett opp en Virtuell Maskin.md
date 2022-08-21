@@ -8,7 +8,7 @@ tags:
   - Cloud
   - Azure
 created: 2022-04-16 02:00:00
-updated: 2022-08-16 21:04:01
+updated: 2022-08-21 14:51:56
 ---
 # 02. Sett opp en Virtuell Maskin
 Gå til https://portal.azure.com/#home - dette er dashboardet til Azure. Øverst i feltet kan du finne søkebaren, her kan du skrive inn tjenesten vi ønsker å sette opp som er en [[Virtual Machine|Virtuell Maskin]] (Virtual Machine):
@@ -16,7 +16,7 @@ Gå til https://portal.azure.com/#home - dette er dashboardet til Azure. Øverst
 ![[virtual-machine-search.png]]
 
 ## Lag en Virtuell Maskin
-Trykk på Create knappen øverst til venstre på siden, og velg *Azure Virtual Machine|Azure virtual machine*.
+Trykk på Create knappen øverst til venstre på siden, og velg *Azure virtual machine*.
 
 ![[create-vm.png]]
 

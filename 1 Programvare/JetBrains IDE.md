@@ -8,7 +8,7 @@ tags:
   - IDE
   - Programvare
 created: 2022-07-27 04:00:00
-updated: 2022-08-17 15:46:57
+updated: 2022-08-21 13:38:51
 ---
 # JetBrains IDE
 Vi bruker [JetBrains](https://www.jetbrains.com) programvaresuite til å programmere med. JetBrains lager spesialiserte programmeringsverktøy som gjør det enklere å forstå koden vi jobber med takket være [[Code Intelligence]].
@@ -20,7 +20,7 @@ Som elev får du tilgang til hele JetBrains Professional pakken ved å følge de
 
 **Merk at du kan knytte opp JetBrains innlogging til din [GitHub](https://github.com/) konto (Anbefalt)**
 
-Vi kommer til å bruke følgende programvare [[IDE]], du finner nedlastningsiden ved å følge lenkene.
+Vi kommer til å bruke følgende programvare [[Integrated Development Environment|IDE]], du finner nedlastningsiden ved å følge lenkene.
 
 ## PyCharm Professional (Python)
 Den beste Python editoren?

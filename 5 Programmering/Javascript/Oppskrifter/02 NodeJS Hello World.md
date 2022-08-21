@@ -7,7 +7,7 @@ authors:
 tags:
   - Javascript
 created: 2022-04-09 02:00:00
-updated: 2022-08-17 20:23:16
+updated: 2022-08-21 13:38:51
 ---
 # NodeJS: Hello World
 I motsetning til Python, har NodeJS litt mer avanserte syntakser som kan være litt frustrerende å jobbe med, men fortvil ikke! Med pakkene vi installerte i forrige artikkel, [[01 Node Javascript Installasjon og oppsett i IDE]], så får vi god hjelp!
@@ -17,7 +17,7 @@ I denne oppskriften skal vi lage et Express prosjekt som viser teksten "Hello No
 ## Steg 1: Hello World, konsoll
 Opprett en ny mappe på maskinen din og kall denne for HelloNode
 
-I din [[IDE]] åpner du prosjektmappen (i Atom er det `Add Folders` eller `Open Folder`.
+I din [[Integrated Development Environment|IDE]] åpner du prosjektmappen (i Atom er det `Add Folders` eller `Open Folder`.
 
 Lag en fil i prosjektet og kall denne for `app.js`
 
@@ -35,7 +35,7 @@ Hvis alt har gått etter planen, vil du nå få opp teksten "Hello Node!"
 Dette er et godt tegn på at alt er installert, bra jobba!
 
 ## Steg 2: Opprett et Node prosjekt
-Nå som vi har et prosjekt gående i vår [[IDE]], er det på tide å erklære prosjektet som et node prosjekt. Dette gjøres i terminalen i samme mappe (samme sted hvor man kjørte `node app.js`).
+Nå som vi har et prosjekt gående i vår [[Integrated Development Environment|IDE]], er det på tide å erklære prosjektet som et node prosjekt. Dette gjøres i terminalen i samme mappe (samme sted hvor man kjørte `node app.js`).
 
 For å erklære prosjektet skriver man: `npm init`
 
