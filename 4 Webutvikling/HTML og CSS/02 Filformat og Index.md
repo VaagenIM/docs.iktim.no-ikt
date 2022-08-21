@@ -1,5 +1,5 @@
 ---
-title: 02 Filformat og Index
+title: 2. Filformat og Index
 aliases: 
   - 02 Filformat og Index
 lang: nb-NO
@@ -9,7 +9,7 @@ tags:
   - HTML
   - Web
 created: 2022-08-21 13:40:50
-updated: 2022-08-21 13:40:59
+updated: 2022-08-21 15:46:04
 ---
 # 02 Filformat og Index
 Tekstfiler som lagres i formatet `.html` er HTML filer, som kan åpnes direkte i nettleser. Nettsider man besøker på internett holdes oppe av programvare som sender ut `.html` filer til dem som besøker siden.

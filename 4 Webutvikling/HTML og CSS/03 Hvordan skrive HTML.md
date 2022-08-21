@@ -1,5 +1,5 @@
 ---
-title: 03 Hvordan skrive HTML
+title: 3. Hvordan skrive HTML
 aliases: 
   - Hvordan skrive HTML
 lang: nb-NO
@@ -9,7 +9,7 @@ tags:
   - HTML
   - Web
 created: 2022-08-21 13:41:53
-updated: 2022-08-21 13:41:57
+updated: 2022-08-21 15:46:50
 ---
 # 03 Hvordan skrive HTML
 Innhold i HTML plasseres mellom tagger som har en start og en slutt, disse kalles for tagger.

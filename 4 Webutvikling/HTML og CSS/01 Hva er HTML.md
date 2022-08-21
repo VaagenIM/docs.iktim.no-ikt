@@ -1,5 +1,5 @@
 ---
-title: 01 Hva er HTML?
+title: 1. Hva er HTML?
 aliases: 
   - Hva er HTML?
   - HTML
@@ -10,7 +10,7 @@ tags:
   - HTML
   - Web
 created: 2022-08-21 12:43:26
-updated: 2022-08-21 12:43:34
+updated: 2022-08-21 15:46:01
 ---
 # Hva er HTML?
 HTML består av to begreper, [[Hypertext]] og [[Markup Language]]. Et program som leser hypertext kalles for en nettleser. Noen nettlesere kan dermed tolke nettsider annerledes enn andre, som kanskje valg av standard tekstfont, overskriftstiler eller andre funksjoner. HTML blir da språket nettleseren leser når man besøker et nettsted.

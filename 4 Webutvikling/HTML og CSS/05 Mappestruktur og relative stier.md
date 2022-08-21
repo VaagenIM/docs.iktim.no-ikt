@@ -1,5 +1,5 @@
 ---
-title: 05 Mappestruktur og relative stier
+title: 5. Mappestruktur og relative stier
 aliases: 
   - 05 Mappestruktur og relative stier
 lang: nb-NO

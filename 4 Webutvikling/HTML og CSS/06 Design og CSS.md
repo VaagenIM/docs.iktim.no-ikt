@@ -1,5 +1,5 @@
 ---
-title: 06 Design og CSS
+title: 6. Design og CSS
 aliases: 
   - 06 Design og CSS
 lang: nb-NO

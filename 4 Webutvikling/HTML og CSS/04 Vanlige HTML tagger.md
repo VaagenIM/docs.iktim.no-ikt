@@ -1,5 +1,5 @@
 ---
-title: 04 Vanlige, basic HTML tagger
+title: 4. Vanlige, basic HTML tagger
 aliases: 
   - 04 Vanlige HTML tagger
 lang: nb-NO

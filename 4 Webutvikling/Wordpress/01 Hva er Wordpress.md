@@ -1,5 +1,5 @@
 ---
-title: 01 Hva er Wordpress
+title: 1. Hva er Wordpress
 aliases: 
   - Hva er Wordpress
   - Wordpress
