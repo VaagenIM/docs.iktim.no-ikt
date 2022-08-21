@@ -1,5 +1,5 @@
 ---
-title: 05 Enum, Identifisering
+title: 5. Enum, Identifisering
 aliases: [Enum, Identifisering,]
 lang: nb-NO
 authors:
@@ -8,7 +8,7 @@ tags:
   - Python
   - OOP
 created: 2022-07-08 02:00:00
-updated: 2022-08-13 20:26:07
+updated: 2022-08-21 15:41:04
 ---
 # 05 Enum, Identifisering
 En enum, eller enumerated type, er en verdi som identifiserer [[Constant|konstante]] verdier. I programmering møter man ofte situasjoner der man må behandle ulike egenskaper individuelt.

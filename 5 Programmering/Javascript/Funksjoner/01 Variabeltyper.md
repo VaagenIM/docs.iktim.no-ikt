@@ -7,7 +7,7 @@ authors:
 tags:
   - Javascript
 created: 2022-04-09 02:00:00
-updated: 2022-08-13 20:25:29
+updated: 2022-08-21 15:40:07
 ---
 # Variabler - let, var, const
 I Javascript er det tre forskjellige måter å opprette variabler på.

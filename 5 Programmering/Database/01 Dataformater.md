@@ -1,5 +1,5 @@
 ---
-title: 01. Dataformater
+title: 1. Dataformater
 aliases: [Dataformater,]
 lang: nb-NO
 authors:
@@ -10,7 +10,7 @@ tags:
   - CSV
   - SQL
 created: 2022-04-09 02:00:00
-updated: 2022-08-16 20:46:33
+updated: 2022-08-21 15:39:57
 ---
 # Dataformater
 Når vi sender mye data mellom maskiner, bruker man ofte et eget format som er egnet for større mengder data. En av de vanligste formatene som er brukt, er [[JSON]].

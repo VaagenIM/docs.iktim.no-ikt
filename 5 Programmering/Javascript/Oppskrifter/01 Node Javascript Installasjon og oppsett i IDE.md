@@ -1,5 +1,5 @@
 ---
-title: 01 Node Javascript - Installasjon og oppsett i IDE
+title: 1. Node Javascript - Installasjon og oppsett i IDE
 aliases: [NodeJS - Installasjon og oppsett i IDE,]
 lang: nb-NO
 authors:

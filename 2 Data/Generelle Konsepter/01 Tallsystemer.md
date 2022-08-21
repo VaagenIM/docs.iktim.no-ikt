@@ -1,5 +1,5 @@
 ---
-title: 01. Tallsystemer
+title: 1. Tallsystemer
 aliases: [Tallsystemer,]
 lang: nb-NO
 authors:
@@ -7,7 +7,7 @@ authors:
 tags:
   - Tallsystem
 created: 2022-04-09 06:00:00
-updated: 2022-08-16 20:55:02
+updated: 2022-08-21 15:39:20
 ---
 # Tallsystemer
 Det vanligste tallsystemet som er brukt hos mennesker er 10-tallsystemet, som fungerer flott til de vanligste matematiske utfordringer hvor vi regner med tall. Dette er ikke tilfelle for datamaskiner, som representerer data i form av elektroniske signaler; av eller på.

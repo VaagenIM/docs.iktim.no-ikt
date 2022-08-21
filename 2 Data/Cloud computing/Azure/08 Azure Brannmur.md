@@ -1,5 +1,5 @@
 ---
-title: 08. Azure Brannmur
+title: 8. Azure Brannmur
 aliases: [Azure Brannmur,]
 lang: nb-NO
 authors:
@@ -7,7 +7,7 @@ authors:
 tags:
   - missing
 created: 2022-04-16 02:00:00
-updated: 2022-08-16 21:04:16
+updated: 2022-08-21 15:39:31
 ---
 # 08. Azure Brannmur
 Kommer snart

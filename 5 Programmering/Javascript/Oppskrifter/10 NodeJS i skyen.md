@@ -1,5 +1,5 @@
 ---
-title: 10 Publiser i skya
+title: 10. Publiser i skya
 aliases: [Publiser i skya]
 lang: nb-NO
 authors:
@@ -9,7 +9,7 @@ tags:
   - Nettverk
   - Javascript
 created: 2022-04-09 02:00:00
-updated: 2022-08-16 21:11:20
+updated: 2022-08-21 15:40:46
 ---
 # Publiser i skya
 Godt jobba! Nå skal vi migrere vårt prosjekt til [[Cloud Computing|skyen]]. Vi bruker [Microsoft Azure](https://azure.microsoft.com/en-us/) - du logger inn med din skolekonto

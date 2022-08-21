@@ -1,5 +1,5 @@
 ---
-title: 09 Kryptering av brukerpassord
+title: 9. Kryptering av brukerpassord
 aliases: [Kryptering av brukerpassord,]
 lang: nb-NO
 authors:

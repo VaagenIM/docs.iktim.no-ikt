@@ -1,5 +1,5 @@
 ---
-title: 01 Print og Input funksjonene
+title: 1. Print og Input funksjonene
 aliases: [Print og Input funksjonene,]
 lang: nb-NO
 authors:

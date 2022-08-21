@@ -1,5 +1,5 @@
 ---
-title: 04. Hello World webserver
+title: 4. Hello World webserver
 aliases: [Hello World webserver,]
 lang: nb-NO
 authors:
@@ -9,7 +9,7 @@ tags:
   - Cloud
   - Webserver
 created: 2022-04-16 02:00:00
-updated: 2022-08-16 21:04:08
+updated: 2022-08-21 15:39:40
 ---
 # 04. Hello World webserver
 For å sette opp en enkel webserver i Azure må man gjøre følgende steg:

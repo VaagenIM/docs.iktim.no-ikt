@@ -1,5 +1,5 @@
 ---
-title: 03. Koble til Virtuell Maskin
+title: 3. Koble til Virtuell Maskin
 aliases: [Koble til Virtuell Maskin,]
 lang: nb-NO
 authors:
@@ -10,7 +10,7 @@ tags:
   - SSH
   - PuTTY
 created: 2022-04-16 02:00:00
-updated: 2022-08-16 21:03:39
+updated: 2022-08-21 15:39:42
 ---
 # 03. Koble til Virtuell Maskin
 Inne på din Virtuelle maskin i Azure vil du se et felt som heter `Public IP Address`. Dette er maskinen sin adresse.

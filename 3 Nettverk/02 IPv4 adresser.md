@@ -1,5 +1,5 @@
 ---
-title: 02. IPv4-adresser
+title: 2. IPv4-adresser
 aliases: [IPv4-adresser, IPv4, IP-adresser]
 lang: nb-NO
 authors:
@@ -9,7 +9,7 @@ tags:
   - Cybersikkerhet
   - IP
 created: 2022-04-09 04:00:00
-updated: 2022-08-16 17:49:55
+updated: 2022-08-21 15:38:55
 ---
 # IP-adresser (IPv4)
 IP adresser er en adresse tildelt alle enheter som kobler seg til internett. Vi skiller IP-adresser i to kategorier, offentlig og privat. Eksempel på en privat ip-adresse er $192.168.1.55$.

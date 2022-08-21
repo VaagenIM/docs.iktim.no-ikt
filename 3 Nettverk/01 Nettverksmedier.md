@@ -1,5 +1,5 @@
 ---
-title: 01. Nettverksmedier
+title: 1. Nettverksmedier
 aliases: [Nettverksmedier,]
 lang: nb-NO
 authors:
@@ -8,7 +8,7 @@ tags:
   - Nettverk
   - WiFi
 created: 2022-04-09 02:00:00
-updated: 2022-08-16 21:01:05
+updated: 2022-08-21 15:38:54
 ---
 # Nettverksmedier
 Det er flere ulike medier man kan sende informasjon gjennom. Her er en kort, ukomplett liste.

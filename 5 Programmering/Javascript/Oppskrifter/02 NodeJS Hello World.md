@@ -1,5 +1,5 @@
 ---
-title: 02 NodeJS - Hello World
+title: 2. NodeJS - Hello World
 aliases: [NodeJS - Hello World,]
 lang: nb-NO
 authors:
@@ -7,7 +7,7 @@ authors:
 tags:
   - Javascript
 created: 2022-04-09 02:00:00
-updated: 2022-08-21 13:38:51
+updated: 2022-08-21 15:40:22
 ---
 # NodeJS: Hello World
 I motsetning til Python, har NodeJS litt mer avanserte syntakser som kan være litt frustrerende å jobbe med, men fortvil ikke! Med pakkene vi installerte i forrige artikkel, [[01 Node Javascript Installasjon og oppsett i IDE]], så får vi god hjelp!

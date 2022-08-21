@@ -1,5 +1,5 @@
 ---
-title: 04 Express HTML - Pug Templating
+title: 4. Express HTML - Pug Templating
 aliases: [Express HTML - Pug Templating,]
 lang: nb-NO
 authors:

@@ -7,7 +7,7 @@ authors:
 tags:
   - Javascript
 created: 2022-04-09 02:00:00
-updated: 2022-08-13 20:25:53
+updated: 2022-08-21 15:40:12
 ---
 # Arrow Functions
 Arrow Functions er rett og slett en annen konvensjon (uskreven regel) på hvordan man skriver funksjoner i Javascript uten navn. Forskjellen er at man ikke skriver hele syntaksen, men heller bruker `=>` symbolet.

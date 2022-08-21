@@ -1,5 +1,5 @@
 ---
-title: 11 Ferdig kode
+title: 11. Ferdig kode
 aliases: [11 Ferdig kode,]
 lang: nb-NO
 authors:
@@ -7,7 +7,7 @@ authors:
 tags:
   - missing
 created: 2022-04-26 02:00:00
-updated: 2022-08-13 20:26:20
+updated: 2022-08-21 15:40:47
 ---
 # Ferdig kode
 Den ferdige koden til prosjektet kan lastes ned her: https://github.com/VaagenIM/JS-UserLogin-Demo

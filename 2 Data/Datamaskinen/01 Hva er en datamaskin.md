@@ -1,5 +1,5 @@
 ---
-title: 01 Hva er en datamaskin?
+title: 1. Hva er en datamaskin?
 aliases: 
   - 01 Hva er en datamaskin
 lang: nb-NO

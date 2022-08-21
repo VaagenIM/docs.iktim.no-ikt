@@ -1,5 +1,5 @@
 ---
-title: 05. Last ned mer RAM (SWAP)
+title: 5. Last ned mer RAM (SWAP)
 aliases: [Last ned mer RAM (SWAP),]
 lang: nb-NO
 authors:

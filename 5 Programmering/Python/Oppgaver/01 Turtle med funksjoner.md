@@ -1,5 +1,5 @@
 ---
-title: 01 Turtle med funksjoner
+title: 1. Turtle med funksjoner
 aliases: [Turtle med funksjoner,]
 lang: nb-NO
 authors:

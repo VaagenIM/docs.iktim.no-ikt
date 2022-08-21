@@ -1,5 +1,5 @@
 ---
-title: 02 Python Chatrobot
+title: 2. Python Chatrobot
 aliases: [Python Chatrobot,]
 lang: nb-NO
 authors:
@@ -8,7 +8,7 @@ tags:
   - Python
   - Oppgave
 created: 2022-04-09 02:00:00
-updated: 2022-08-13 20:25:55
+updated: 2022-08-21 15:41:14
 ---
 # Python Chatrobot
 Ved hjelp av noen få enkle [[Funksjon|funksjoner]], så skal du lage din egen chatrobot. Omfanget velger du selv, men det er en del minimumskrav du må følge. Programmering er et språk man lærer av å utforske ting i, for å få høy måloppnåelse i denne oppgaven, må du derfor eksperimentere med funksjonene du velger å gi din chatrobot.

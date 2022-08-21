@@ -1,5 +1,5 @@
 ---
-title: 03. Subnetting
+title: 3. Subnetting
 aliases: [Subnetting,Subnet Mask]
 lang: nb-NO
 authors:

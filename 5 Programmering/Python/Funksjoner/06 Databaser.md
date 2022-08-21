@@ -1,5 +1,5 @@
 ---
-title: 06 Databaser
+title: 6. Databaser
 aliases: [Databaser, SQLite]
 lang: nb-NO
 authors:
@@ -7,7 +7,7 @@ authors:
 tags:
   - Definisjon
 created: 2022-07-27 02:00:00
-updated: 2022-08-13 20:26:04
+updated: 2022-08-21 15:41:07
 ---
 # 06 Databaser
 

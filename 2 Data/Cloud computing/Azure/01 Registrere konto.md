@@ -1,5 +1,5 @@
 ---
-title: 01. Registrere konto
+title: 1. Registrere konto
 aliases: [Registrere konto,]
 lang: nb-NO
 authors:
@@ -8,7 +8,7 @@ tags:
   - Cloud
   - Azure
 created: 2022-04-16 02:00:00
-updated: 2022-08-13 20:25:28
+updated: 2022-08-21 15:39:47
 ---
 # Registrere konto hos Azure
 Når man logger inn på https://signup.azure.com/studentverification, så er man nødt til å bruke sin elevkonto. Dette er fordi som elev, eller student, får du automatisk tildelt midler som kan brukes i Azure, uten å måtte registrere betalingskort.

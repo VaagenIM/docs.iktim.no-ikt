@@ -1,5 +1,5 @@
 ---
-title: 03. Heksadesimaler
+title: 3. Heksadesimaler
 aliases: [Heksadesimaler,]
 lang: nb-NO
 authors:
@@ -7,7 +7,7 @@ authors:
 tags:
   - Tallsystem
 created: 2022-04-09 06:00:00
-updated: 2022-08-16 20:55:02
+updated: 2022-08-21 15:39:23
 ---
 # Heksadesimaler
 Heksadesimaler er et 16-tallsystem hvor laveste tall er 0, og høyeste tall er F (15). Også kjent som Hex. Et heksadesimalt siffer kan representeres av en [[04 Bits#Nibble|nibble]].

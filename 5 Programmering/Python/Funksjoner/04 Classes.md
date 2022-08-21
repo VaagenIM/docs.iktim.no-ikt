@@ -1,5 +1,5 @@
 ---
-title: 04 Classes
+title: 4. Classes
 aliases: [Class,Classes]
 lang: nb-NO
 authors:

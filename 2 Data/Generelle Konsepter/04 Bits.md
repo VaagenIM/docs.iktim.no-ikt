@@ -1,5 +1,5 @@
 ---
-title: 04. Bits
+title: 4. Bits
 aliases: [Bit, Bits, Byte,]
 lang: nb-NO
 authors:
@@ -7,7 +7,7 @@ authors:
 tags:
   - Data
 created: 2022-08-16 12:48:53
-updated: 2022-08-16 20:47:01
+updated: 2022-08-21 15:39:24
 ---
 # Bits
 En bit er en verdi som kan kun representere 1 verdi, av eller på. `0` eller `1`. Bits kan representeres mekanisk, elektronisk og digitalt og er fundamentet på hvordan en datamaskin fungerer.

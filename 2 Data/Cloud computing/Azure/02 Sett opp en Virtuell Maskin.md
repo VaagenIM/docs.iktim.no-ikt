@@ -1,5 +1,5 @@
 ---
-title: 02. Sett opp en Virtuell Maskin
+title: 2. Sett opp en Virtuell Maskin
 aliases: [Sett opp en Virtuell Maskin,]
 lang: nb-NO
 authors:

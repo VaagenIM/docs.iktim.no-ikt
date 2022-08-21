@@ -1,5 +1,5 @@
 ---
-title: 03 Tuples og lister
+title: 3. Tuples og lister
 aliases: [Tuples og lister,]
 lang: nb-NO
 authors:

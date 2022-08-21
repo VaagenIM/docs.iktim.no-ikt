@@ -1,5 +1,5 @@
 ---
-title: 07 Brukerregistrering
+title: 7. Brukerregistrering
 aliases: [Brukerregistrering,]
 lang: nb-NO
 authors:
@@ -7,7 +7,7 @@ authors:
 tags:
   - Javascript
 created: 2022-04-09 02:00:00
-updated: 2022-08-13 20:26:15
+updated: 2022-08-21 15:40:38
 ---
 # Express - Brukerregistrering
 Nå som vi har sett på hvordan man bruker en [[JSON]] database i Javascript, skal vi se på noe som tar det opp enda flere hakk - nemlig prosessen av å legge til innhold i en JSON database. Vi må dog og sette opp en side for å registrere vår bruker.

@@ -1,5 +1,5 @@
 ---
-title: 07. HTTPS og NGINX Proxy Manager
+title: 7. HTTPS og NGINX Proxy Manager
 aliases: [07. HTTPS og NGINX Proxy Manager,]
 lang: nb-NO
 authors:

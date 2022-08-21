@@ -1,5 +1,5 @@
 ---
-title: 06. Docker og Wordpress
+title: 6. Docker og Wordpress
 aliases: [Docker og Wordpress,]
 lang: nb-NO
 authors:
@@ -10,7 +10,7 @@ tags:
   - Wordpress
   - Webdesign
 created: 2022-05-03 04:00:00
-updated: 2022-08-17 20:23:41
+updated: 2022-08-21 15:39:36
 ---
 # 06. Docker og Wordpress
 For å sette opp en enkel webserver i Azure må man gjøre følgende steg:

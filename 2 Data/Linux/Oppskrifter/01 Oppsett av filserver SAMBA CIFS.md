@@ -1,5 +1,5 @@
 ---
-title: 01 Oppsett av filserver SAMBA CIFS
+title: 1. Oppsett av filserver SAMBA CIFS
 aliases: [Oppsett av filserver SAMBA CIFS,]
 lang: nb-NO
 authors:

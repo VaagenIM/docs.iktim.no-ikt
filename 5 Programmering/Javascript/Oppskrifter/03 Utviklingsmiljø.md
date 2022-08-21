@@ -1,5 +1,5 @@
 ---
-title: 03 Utviklingsmiljø
+title: 3. Utviklingsmiljø
 aliases: [NodeJS - Utviklingsmiljø,]
 lang: nb-NO
 authors:

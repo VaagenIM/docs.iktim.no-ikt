@@ -1,5 +1,5 @@
 ---
-title: 02. Datasystem, filbasert
+title: 2. Datasystem, filbasert
 aliases: [Filbasert Database,]
 lang: nb-NO
 authors:

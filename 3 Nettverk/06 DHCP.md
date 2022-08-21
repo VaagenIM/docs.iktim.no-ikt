@@ -1,5 +1,5 @@
 ---
-title: 06. DHCP
+title: 6. DHCP
 aliases: [DHCP,Dynamic Host Configuration Protocol]
 lang: nb-NO
 authors:

@@ -1,5 +1,5 @@
 ---
-title: 08 Cookies
+title: 8. Cookies
 aliases: [Cookies,]
 lang: nb-NO
 authors:
@@ -8,7 +8,7 @@ tags:
   - Javascript
   - Cookie
 created: 2022-04-25 02:00:00
-updated: 2022-08-13 20:26:32
+updated: 2022-08-21 15:40:41
 ---
 # Cookies
 Forklaring kommer snart. [[Cookie]]
