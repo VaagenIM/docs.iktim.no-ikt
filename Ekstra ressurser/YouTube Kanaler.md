@@ -7,7 +7,7 @@ authors:
 tags:
   - Ekstra
 created: 2022-08-02 02:00:00
-updated: 2022-08-16 21:00:32
+updated: 2022-10-02 20:35:24
 ---
 # YouTube Kanaler
 Er lesing litt to-tusen og stein? Mange pompøse typer på nett som ikke *helt* har peiling på hva de snakker om?
@@ -29,6 +29,7 @@ Merk at listen er ikke komplett eller sortert, det finnes mye bra der ute! (Men 
 ## Webutvikling
 - [Kevin Powell (CSS-Guru)](https://www.youtube.com/kepowob)
 - [WebDevSimplified (JavaScript)](https://www.youtube.com/c/WebDevSimplified)
+- [Hyperplexed (Webdesign)](https://www.youtube.com/c/Hyperplexed)
 
 ## Hacking / Cybersec
 - [John Hammond (Hacking)](https://www.youtube.com/c/JohnHammond010)
