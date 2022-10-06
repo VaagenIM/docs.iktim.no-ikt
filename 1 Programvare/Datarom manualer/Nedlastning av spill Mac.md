@@ -8,7 +8,7 @@ authors:
 tags:
   - Mac
 created: 2022-10-06 08:32:38
-updated: 2022-10-06 08:32:49
+updated: 2022-10-06 11:00:59
 ---
 # Nedlastning av spill (Mac)
 Dersom du laster ned spill fra vår egen kolleksjon, https://spill.iktim.no, kan det hende du blir møtt med følgende feilmelding når du prøver å åpne:
@@ -20,6 +20,9 @@ Dette betyr ikke at filen er skadelig, men at programvaren ikke har gyldig serti
 ## Fiks - prøv 1 steg om gangen
 1. Plasser filen i Applications mappen
 2. Du må muligens godta installasjon fra ukjente utviklere, dette gjør du i systemvalg.
-3. Hvis du ikke får opp valget fra ukjente utviklere, kan du tvinge den frem med å kjøre skriptet [mac-allow-installs.sh](https://github.com/VaagenIM/devmode-script/releases/download/v1.0/mac-allow-installs.sh)
+3. Hvis du ikke får opp valget fra ukjente utviklere, kan du tvinge den frem ved å åpne appen `Terminal` og lime inn følgende kommando:
+```sh
+sudo spctl --master-disable
+```
 
 Nå skal du kunne åpne programmet / spillet.
