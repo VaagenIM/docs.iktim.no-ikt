@@ -8,7 +8,7 @@ authors:
 tags:
   - Windows
 created: 2022-10-06 08:37:58
-updated: 2022-10-06 08:38:03
+updated: 2022-10-06 10:58:49
 ---
 # Nedlastning av spill (PC)
 Noen av spillene fra kolleksjonen vår, https://spill.iktim.no, kommer innpakket i et arkivformat (`.zip`). Innholdet må pakkes ut, før man får tilgang til filene.
