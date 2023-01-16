@@ -5,7 +5,7 @@ lang: nb-NO
 authors:
   - Sondre Grønås
 created: 2022-08-12 04:00:00
-updated: 2022-08-16 20:57:21
+updated: 2023-01-16 21:05:43
 ---
 # Informasjonsteknologi
 Velkommen!
@@ -19,4 +19,5 @@ Velkommen!
 - [[YouTube Kanaler]]
 - [[Nedlastbare ressurser]]
 - [[Linux Ressurser|Linux Ressurser]]
+- [Pico.css](https://picocss.com/) - Enkel CSS pakke som lar deg kun fokusere på HTML kode
 - [W3Schools Online Web Tutorials](https://w3schools.com) - Internett skolen, alt mulig rart fra HTML, Javascript, Database, Programmering
