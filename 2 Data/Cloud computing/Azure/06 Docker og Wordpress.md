@@ -10,7 +10,7 @@ tags:
   - Wordpress
   - Webdesign
 created: 2022-05-03 04:00:00
-updated: 2022-08-21 15:39:36
+updated: 2023-03-31 12:12:37
 ---
 # 06. Docker og Wordpress
 For å sette opp en enkel webserver i Azure må man gjøre følgende steg:
@@ -53,7 +53,7 @@ I Azure må du gå til `Networking` fanen, her skal du komme til en fane som het
 
 Her må du legge til en ny regel, velg `Custom` port og skriv inn port `8080`.
 
-![[Pasted image 20220503170335.png]]
+![[Azure-Inbound-Security.png]]
 
 Du skal nå kunne besøke http://din_azure_ip_adresse:8080 og se ditt nye Wordpress nettsted. Logg inn med `admin/admin` og skift passord.
 

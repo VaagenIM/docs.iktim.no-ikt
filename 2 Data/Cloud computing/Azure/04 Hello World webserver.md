@@ -9,7 +9,7 @@ tags:
   - Cloud
   - Webserver
 created: 2022-04-16 02:00:00
-updated: 2022-08-21 15:39:40
+updated: 2023-03-31 12:12:37
 ---
 # 04. Hello World webserver
 For å sette opp en enkel webserver i Azure må man gjøre følgende steg:
