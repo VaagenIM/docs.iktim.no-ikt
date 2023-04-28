@@ -21,3 +21,4 @@ Velkommen!
 - [[Linux Ressurser|Linux Ressurser]]
 - [Pico.css](https://picocss.com/) - Enkel CSS pakke som lar deg kun fokusere på HTML kode
 - [W3Schools Online Web Tutorials](https://w3schools.com) - Internett skolen, alt mulig rart fra HTML, Javascript, Database, Programmering
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - Åpent register av tilgjengelige datasett i ulike kategorier.
