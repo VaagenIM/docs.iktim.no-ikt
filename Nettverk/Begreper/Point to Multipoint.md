@@ -18,7 +18,7 @@ Point to Multipoint, eller PTMP, er kommunikasjon fra et sentralisert sted (et p
 
 I motsetning til Point to Point, er farten på nettverkskoblingen redusert. Dette er fordi dataen sprer seg i alle retninger, ikke til ett samme punkt. Man kan likevel oppnå høy hastighet ved å benytte seg av flere antenner som projiserer strålingen i en gitt retning.
 
-> [!TECH] Bruksområder
+> [!TECH]+ Bruksområder
 > Merk at PTMP gir enheter som er koblet til tilgang til det interne nettverket, mens mobilnett er et isolert nett. Det er derfor mange grunner og situasjoner der PTMP vil være fordel å installere.
 > - Mobilnett, fra et høyt punkt til mange enheter
 > - Større bygg / anlegg som vil tilby sitt nettverk til hele campus
