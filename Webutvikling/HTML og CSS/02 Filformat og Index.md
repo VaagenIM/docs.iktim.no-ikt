@@ -9,7 +9,7 @@ tags:
   - HTML
   - Web
 created: 2022-08-21 13:40:50
-updated: 2022-08-21 15:46:04
+updated: 2023-05-05 12:51:34
 ---
 # 02 Filformat og Index
 Tekstfiler som lagres i formatet `.html` er HTML filer, som kan åpnes direkte i nettleser. Nettsider man besøker på internett holdes oppe av programvare som sender ut `.html` filer til dem som besøker siden.

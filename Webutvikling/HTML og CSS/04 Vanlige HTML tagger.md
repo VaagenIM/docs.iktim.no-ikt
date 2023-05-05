@@ -9,7 +9,7 @@ tags:
   - HTML
   - Web
 created: 2022-08-21 13:51:41
-updated: 2022-08-21 13:51:47
+updated: 2023-05-05 12:39:58
 ---
 # 04 Vanlige, basic HTML tagger
 Her er bare et fåtall av de mest vanlige HTML taggene, Google er din beste venn.

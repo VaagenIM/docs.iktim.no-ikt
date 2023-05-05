@@ -9,7 +9,7 @@ tags:
   - HTML
   - Web
 created: 2022-08-21 13:58:23
-updated: 2022-08-21 17:12:35
+updated: 2023-05-05 12:39:58
 ---
 # 05 Mappestruktur og relative stier
 Det viktigste når man lager en HTML nettside er en god mappestruktur og forståelse for relative filstier.
