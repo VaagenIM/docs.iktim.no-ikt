@@ -8,7 +8,7 @@ authors:
 tags:
   - Definisjon
 created: 2023-05-05 11:05:06
-updated: 2023-05-05 11:05:06
+updated: 2023-05-05 13:32:20
 ---
 # Sprites
 Sprites er 2D-grafikkobjekter eller bildefiler som brukes til å representere karakterer, objekter, bakgrunner og andre visuelle elementer i et spill. Sprites brukes ofte i 2D-spill og plattformspill, der de bidrar til å gi spillet en visuell stil og en konsistent estetikk.

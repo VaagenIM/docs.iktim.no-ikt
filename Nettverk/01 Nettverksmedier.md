@@ -40,7 +40,7 @@ En typisk ethernet-kabel har en RJ-45-kontakt i hver ende, som ligner på en tel
 
 Ethernet-kabler brukes ofte i både hjemmenettverk og bedriftsnettverk, og er en viktig komponent for å opprette og opprettholde en pålitelig og rask tilkobling mellom enheter.
 
-## Fiberkabel
+### Fiberkabel
 En fiberkabel er en type nettverkskabel som bruker optiske fibre laget av glass eller plast til å overføre data med høy hastighet og over lange avstander. Optiske fibre er tynne tråder som er laget av et materiale med høy brytningsindeks, og som kan overføre lys ved å reflektere det inni tråden.
 
 Fiberkabler gir en rekke fordeler over andre typer kabler, inkludert høyere hastigheter, større kapasitet og lavere signalforvrengning over lange avstander. De er også immune mot elektromagnetiske forstyrrelser og radiofrekvensinterferens, og kan brukes i områder med høy elektromagnetisk aktivitet uten å påvirkes.
