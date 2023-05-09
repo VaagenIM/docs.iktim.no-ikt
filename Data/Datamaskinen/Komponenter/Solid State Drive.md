@@ -8,7 +8,7 @@ authors:
 tags:
   - Data
 created: 2022-09-06 10:54:34
-updated: 2022-09-06 10:54:34
+updated: 2023-05-09 09:13:50
 ---
 # SSD
 Bruker et digitalt grensesnitt til å lagre eller lese data, som fører til økt hastighet og mindre vibrasjon eller støy. Har en høyere kostnad enn en [[Harddisk|HDD]], men tilbyr betraktelig raskere ytelse.

@@ -7,7 +7,7 @@ authors:
 tags:
   - Definisjon
 created: 2022-05-03 02:00:00
-updated: 2022-08-21 15:15:23
+updated: 2023-05-09 09:28:42
 ---
 # GitHub
 En plattform for å utvikle teknologiske prosjekter, eid av Microsoft

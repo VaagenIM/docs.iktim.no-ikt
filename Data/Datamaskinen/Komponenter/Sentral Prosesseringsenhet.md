@@ -3,13 +3,14 @@ title: CPU
 aliases: 
   - Sentral Prosesseringsenhet
   - Prosessor
+  - CPU
 lang: nb-NO
 authors:
   - Sondre Grønås
 tags:
   - Data
 created: 2022-09-06 10:17:53
-updated: 2022-09-06 10:17:54
+updated: 2023-05-09 09:11:06
 ---
 # Sentral Prosesseringsenhet
 Hjernen til maskinen.
