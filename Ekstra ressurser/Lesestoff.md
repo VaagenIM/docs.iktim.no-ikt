@@ -17,6 +17,7 @@ Her er en liste av nettsider og blogger som er verdt å holde et øye med, kateg
 - [https://nrkbeta.no/](https://nrkbeta.no/) 
 - [https://www.jeffgeerling.com/blog](https://www.jeffgeerling.com/blog) 
 - https://www.arjancodes.com/
+- https://www.kode24.no/
 
 ## Nettverk 
 - [https://www.crosstalksolutions.com/blog/](https://www.crosstalksolutions.com/blog/) 
