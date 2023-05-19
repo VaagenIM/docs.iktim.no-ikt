@@ -13,6 +13,8 @@ updated: 2022-08-21 15:24:19
 # Classes
 Class er en standardfunksjon i [[Objekt orientert programmering|Objekt-orientert programmering]] (OOP)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lX9UQp2NwTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **Hvorfor classes?**
 - Det gjør kode mer lesbart
 - Det samler relevant data i ett objekt
