@@ -1,7 +1,5 @@
 ---
 updated: 2022-08-21 14:56:49
----
-sh---
 title: Backend
 aliases: [Backend,]
 lang: nb-NO
