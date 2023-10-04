@@ -22,7 +22,8 @@ Her er en liste av nettsider og blogger som er verdt å holde et øye med, kateg
 ## Nettverk 
 - [https://www.crosstalksolutions.com/blog/](https://www.crosstalksolutions.com/blog/) 
 
-## Programmering 
+## Programmering
+- [Developer Roadmap](https://roadmap.sh/) - Kartlegg hva du trenger for å bli best til akkurat det du ønsker å jobbe med!
 - [https://refactoring.guru/](https://refactoring.guru/) - Teknikker, design og strukturer (Refactoring) av programmering 
 	- [Factory Method](https://refactoring.guru/design-patterns/factory-method)
 - **Clean Code** - A Handbook of Agile Software Craftsmanship (2008), Robert C. Martin
