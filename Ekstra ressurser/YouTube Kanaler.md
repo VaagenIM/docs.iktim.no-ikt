@@ -25,6 +25,8 @@ Merk at listen er ikke komplett eller sortert, det finnes mye bra der ute! (Men 
 
 ## Spillutvikling
 - [GDQuest (Godot)](https://www.youtube.com/c/Gdquest)
+- [Game Maker's Toolkit (Misc)](https://www.youtube.com/@GMTK)
+- [Masahiro Sakurai on Creating Games (Spilldesign)](https://www.youtube.com/@sora_sakurai_en)
 
 ## Webutvikling
 - [Kevin Powell (CSS-Guru)](https://www.youtube.com/kepowob)
